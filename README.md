@@ -1,6 +1,6 @@
 # BUILD-AN-EMPLOYEE-TRAVEL-APPROVAL-APPLICATION-FOR-CORPORATES
 
-Trailhead URl
+Trailhead URL
 
 Team lead (JEEVARANI.S) :  https://trailblazer.me/id/subra183
 Team member1 (FASHIYA RASULBE.A) :https://trailblazer.me/id/arasulbe14
